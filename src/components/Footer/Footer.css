@@ -1,0 +1,55 @@
+*{
+    margin: 0;padding: 0;
+}
+.foot{
+    height: 40vh;
+    width: 100%;
+}
+.p1{
+    width: 42%;
+    margin-left: 10vw;
+}
+.p1 div{
+    width: 390px;
+    margin-top: 8vh;
+    
+}
+.pp1 h2{
+    font-size: 18px;
+    margin-bottom: 30px;
+    
+}
+.pp2{
+    margin-top: -10vh;
+    font-size: 18px;
+    
+}
+.pp2 h2{
+    margin-bottom: 2vh;
+}
+.pp2 ul li{
+    list-style: none;
+    width: 30px;
+}
+
+
+.p2 ul,
+.p3 ul,
+.p4 ul{
+    margin-right: 10vw;
+
+    
+} 
+.p2 ul li,
+.p3 ul li,
+.p4 ul li{
+    margin-bottom: 1.5vh;
+
+    cursor: pointer;
+} 
+
+.f1{
+    margin-top: 8vh;
+    font-size: 18px;
+    font-weight: 700;
+}
